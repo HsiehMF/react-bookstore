@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "大話 AWS 雲端架構：雲端應用架構圖解輕鬆學",
+      "mount": 1,
+      "status": "available",
+      "tags": "雲端",
+      "author": "李秉鴻、周廷諺、何松穎、李建德",
+      "publisher": "博碩文化",
+      "date": "2020-10-08",
+      "price": 550,
+      "sale-price": 429,
+      "language": "繁體中文",
+      "abstract": "AI需求火爆的背後，是對於強大運算能力的渴求，以共享機房為基礎的雲端服務完美解決了AI的剛性需求。雲端服務付費模式的變化，讓傳統系統整合商的收費模式從買斷制演進到訂閱制，創造了新型商業模式－雲端代理商，造就了大量雲端人才缺口。有鑑於此，我們為想學習雲端架構的讀者，以平常生活輕鬆常見的對話形式，綜覽多種在AWS使用的架構。期勉讀者研讀後，能夠為公司提出雲端代理商的轉型商業模式，並能依照公司客戶的需求提供多種雲端解決方案。本書適合尚未導入雲端服務的企業、系統架構師、開發/運維工程師，以及剛入門雲端的新手。若你公司正準備導入雲端，但又不知道該如何提案或者是以何種架構進行導入，則本書將會對你有很大的幫助。",
+      "image": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "為你自己學 Git",
+      "author": "高見龍",
+      "mount": 1,
+      "status": "available",
+      "tags": "Git",
+      "publisher": "博碩文化",
+      "date": "2017-11-29",
+      "price": 500,
+      "sale-price": 390,
+      "language": "繁體中文",
+      "abstract": "不管您的職業是不是工程師，只要你是電腦工作者每天或多或少都需要編輯、修改許多的檔案。  您怎麼樣備份您的檔案？您怎麼樣一眼就可以知道每次備份的差別？如果您跟其它同事一起共同檔案，不論是有心無意，萬一檔案被其它同事覆蓋掉了該怎麼救回來？  如果你在乎這些問題的答案，那使用「版本控制系統」就是一個很不錯的選擇。透過這樣的系統，可以清楚的記錄每個檔案是誰在什麼時候加進來、什麼時候被修改或刪除。Git 就是一種版本控制系統，也是目前業界最流行的版本控制系統，沒有之一。  人生不能重來，但 Git 可以隨時幫你救回來不小心修改或刪除的檔案。  簡單的說，Git 就像玩遊戲的時候可以儲存進度一樣。為了避免遊戲打輸了而損失裝備，又或是打倒頭目卻沒有掉落期望的裝備，你也許在每次要去執行任務之前之前記錄一下，在發生狀況的時候可以載入舊進度，再來挑戰一次。  若您平日的工作已有在使用 Git，本書大部份的內容應該相對的輕鬆；即使已經平日有在使用 Git，也可從本書學到一些「本來以為 Git 是這樣，但其實是那樣」的觀念。",
+      "image": "/images/2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)",
+      "author": "Robert C. Martin 著、戴于晉、博碩文化 譯",
+      "mount": 1,
+      "status": "available",
+      "tags": "敏捷開發",
+      "publisher": "博碩文化",
+      "date": "2013-03-22",
+      "price": 580,
+      "sale-price": 452,
+      "language": "繁體中文",
+      "abstract": "本書的原文書名為《Clean Code: A Handbook of Agile Software Craftsmanship》，根據作者的說法，《無瑕的程式碼》為Jolt得獎著作《敏捷軟體開發：原則、樣式及實務》的前傳。 在台灣另一本銷售極佳的書籍《重構─改善既有程式的設計》，根據亞馬遜Amazon網站的統計，購買該書原文版《Refactoring: Improving the Design of Existing Code》，又同時購買的其他書籍第一名，正是《Clean Code: A Handbook of Agile Software Craftsmanship》這一本書。",
+      "image": "/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "和艦長一起 30 天玩轉 GitLab",
+      "author": "陳正瑋",
+      "mount": 1,
+      "status": "available",
+      "tags": "GitLab、Devops",
+      "publisher": "博碩文化",
+      "date": "2020-11-10",
+      "price": 500,
+      "sale-price": 390,
+      "language": "繁體中文",
+      "abstract": "除了是一本能引領讀者入門 GitLab 的技術書籍，也是第一本屬於台灣本土的 GitLab 專書；在 2011 年誕生之時，GitLab 還只是自架 Git Service 的一項替代方案，如今 GitLab 已發展出具備完整工作流程及工具鏈的 GitLab Workflow，搖身一變成為肩負團隊協作中心地位的 DevOps 平台。",
+      "image": "/images/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "重構｜改善既有程式的設計, 2/e (繁中平裝版)(Refactoring: Improving The Design of Existing Code, 2/e)",
+      "author": "Martin Fowler 賴屹民",
+      "mount": 1,
+      "status": "available",
+      "tags": "敏捷開發",
+      "publisher": "碁峰資訊",
+      "date": "2019-06-28",
+      "price": 800,
+      "sale-price": 632,
+      "language": "繁體中文",
+      "abstract": "完全修訂及更新：包含新的重構方法和範例程式  二十多年來，世界各地經驗豐富的程式員都使用Martin Fowler的《重構》來改善既有程式的設計、提升軟體的易維護性，以及讓既有的程式更容易被人瞭解。  為了反映程式設計領域的重大變化，作者全面翻新書籍內容，推出這本備受期待的新版本。《重構 第二版》提供了新的重構名錄，加入JavaScript範例程式以及新的實用範例來展示各種重構。  這個版本與第一版一樣，將解釋什麼是重構、為何重構、如何認出需要重構的程式，以及如何成功地重構，無論你是使用哪一種語言。 ",
+      "image": "/images/6.jpg"
+    }
+  ]
+}
